@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Simon! 
 
-<!--
-**Simonb316/Simonb316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 IT Projects:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Enterprise Environment Home Lab (VMWare Workstation Pro)</b>
+  - [Deploying and Configuring Windows Server 2022](https://github.com/Simonb316/HomeLab-EnterpriseEnvironment)
+  - Active Directory Domain Services
+  - DNS
+  - DHCP
+  - Group Policy
+  - NTFS Permissions
+  - Domain Joining Clients
+- <b>Azure</b>
+  - [Cloud CV](https://github.com/Simonb316/Azure-CV)
+- <b>PowerShell</b>
+  
