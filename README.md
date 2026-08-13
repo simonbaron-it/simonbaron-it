@@ -1,16 +1,40 @@
-<h1>Hi, I'm Simon! 
+# Hi, I'm Simon
 
-<h2>👨‍💻 IT Projects:</h2>
+## IT Support Analyst | Infrastructure & Cloud Enthusiast
 
-- <b>Windows Server 2022 (VMWare Workstation Pro)</b>
-  - [<b>Enterprise Environment Home Lab</b>](https://github.com/Simonb316/HomeLab-EnterpriseEnvironment) 
-    - Active Directory Domain Services
-    - DNS
-    - DHCP
-    - Group Policy
-    - NTFS Permissions
-    - Domain Joining Clients
-- <b>Azure</b>
-  - [Cloud CV](https://github.com/Simonb316/Azure-CV)
-- <b>PowerShell</b>
+I'm an IT professional building practical projects and home labs to develop my skills in infrastructure management, networking, automation and Microsoft Azure.
+
+This GitHub documents that journey and provides practical examples of the infrastructure, cloud and automation technologies I'm learning and implementing.
+
+## 👨‍💻 Projects I'm working on:
+
+### [Windows Server Enterprise Home Lab](https://github.com/Simonb316/HomeLab-EnterpriseEnvironment) 
+> A virtualised Windows Server environment designed to simulate the infrastructure of a small organisation.
+
+#### Technologies:
+`VMware` `Windows Server 2022` `Active Directory` `DNS` `DHCP` `Group Policy` `NTFS`
+
+#### What I've Built:
+    - Deployed Windows Server virtual machines using VMware Workstation Pro.
+    - Configured Active Directory Domain Services.
+    - Created organisational units, users and security groups.
+    - Configured DNS and DHCP.
+    - Joined Windows client machines to the domain.
+    - Implemented Group Policy.
+    - Configured file shares and NTFS permissions.
+#### What's Coming:
+    - VMnet Segmentation
+    - Backup & Disaster Recovery
+    - Monitoring & Alerts
+    - Infrastructure Automation
+    - Linux Server
+    - Azure Migration
+
+## Projects to come:
+##### Azure Cloud CV Challenge
+##### Azure Infrastructure Lab
+
+### Thanks for visiting! Check back soon for new projects as I continue my journey.
+
+
   
