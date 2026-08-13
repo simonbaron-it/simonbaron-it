@@ -30,6 +30,8 @@ This GitHub documents that journey and provides practical examples of the infras
     - Linux Server
     - Azure Migration
 
+<b>[> View Project](https://github.com/Simonb316/HomeLab-EnterpriseEnvironment)</b>
+
 ## Projects to come:
 ##### Azure Cloud CV Challenge
 ##### Azure Infrastructure Lab
