@@ -33,10 +33,10 @@ This GitHub documents that journey and provides practical examples of the infras
 <b>[> View Project](https://github.com/Simonb316/HomeLab-EnterpriseEnvironment)</b>
 
 ## Projects to come:
-##### Azure Cloud CV Challenge
-##### Azure Infrastructure Lab
+#### Azure Cloud CV Challenge
+#### Azure Infrastructure Lab
 
-### Thanks for visiting! Check back soon for new projects as I continue my journey.
+## Thanks for visiting! Check back soon for new projects as I continue my journey.
 
 
   
