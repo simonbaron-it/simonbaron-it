@@ -12,10 +12,11 @@ This GitHub documents that journey and provides practical examples of the infras
 > A virtualised Windows Server environment designed to simulate the infrastructure of a small organisation.
 
 #### Technologies:
-`VMware` `Windows Server 2022` `Active Directory` `DNS` `DHCP` `Group Policy` `NTFS`
+`Hyper-V` `Windows Server 2025` `RRAS` `NAT` `Active Directory` `DNS` `DHCP` `Group Policy` `NTFS`
 
 #### What I've Built:
-    - Deployed Windows Server virtual machines using VMware Workstation Pro.
+    - Deployed Windows Server virtual machines using Microsoft Hyper-V.
+    - Configured Microsoft Routing and Remote Access Service, including Network Address Translation and VM LAN Routing. 
     - Configured Active Directory Domain Services.
     - Created organisational units, users and security groups.
     - Configured DNS and DHCP.
@@ -23,7 +24,6 @@ This GitHub documents that journey and provides practical examples of the infras
     - Implemented Group Policy.
     - Configured file shares and NTFS permissions.
 #### What's Coming:
-    - VMnet Segmentation
     - Backup & Disaster Recovery
     - Monitoring & Alerts
     - Infrastructure Automation
