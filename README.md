@@ -8,28 +8,27 @@ This GitHub documents that journey and provides practical examples of the infras
 
 ## 👨‍💻 Projects I'm working on:
 
-### [Windows Server Enterprise Home Lab](https://github.com/Simonb316/HomeLab-EnterpriseEnvironment) 
+### [Windows Server 2025 Enterprise-Style Infrastructure Lab](https://github.com/Simonb316/HomeLab-EnterpriseEnvironment) 
 > A virtualised Windows Server environment designed to simulate the infrastructure of a small organisation.
 
 #### Technologies:
-`Hyper-V` `RRAS` `NAT` `Windows Server 2025` `Active Directory` `DNS` `DHCP` `Group Policy` `NTFS`
+`Hyper-V` `RRAS` `NAT` `Virtual Switches` `Windows Server 2025` `Active Directory` `DNS` `DHCP` `Group Policy` `NTFS`
 
-#### What I've Built:
-    - Deployed Windows Server virtual machines using Microsoft Hyper-V.
-    - Configured Microsoft Routing and Remote Access Service, including Network Address Translation and VM LAN Routing. 
-    - Configured Active Directory Domain Services.
-    - Created organisational units, users and security groups.
-    - Configured DNS and DHCP.
-    - Joined Windows client machines to the domain.
-    - Implemented Group Policy.
-    - Configured file shares and NTFS permissions.
+#### What I'm Building:
+    - Designed a multi-VM environment with dedicated domain, networking, file-service and client roles.
+    - Configured a dedicated Windows Server RRAS VM to route traffic between networks and provide NAT.
+    - Configured Active Directory Domain Services, AD-integrated DNS and DHCP. 
+    - Implemented group-based access control and NTFS permissions using least-privilege principles.
+    - Centrally managed workstation configuration through Group Policy.
+    - Tested DNS, DHCP, authentication, routing, Group Policy and permissions from domain-joined clients.
 #### What's Coming:
-    - Backup & Disaster Recovery
-    - Monitoring & Alerts
-    - Infrastructure Automation
+    - PowerShell automation
+    - Domain Controller redundancy, AD/DNS replication 
+    - Backup & Recovery
+    - Monitoring & logging
     - Linux Server
-    - Azure Migration
-
+    - Hybrid Azure integration
+    
 <b>[> View Project](https://github.com/Simonb316/HomeLab-EnterpriseEnvironment)</b>
 
 ## Future Projects:
