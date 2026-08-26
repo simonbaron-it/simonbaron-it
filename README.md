@@ -14,15 +14,15 @@ This GitHub documents my progression into infrastructure and cloud engineering t
 #### Technologies:
 `Windows Server 2025` `Hyper-V` `RRAS` `Active Directory` `DNS` `DHCP` `Group Policy` `SMB` `NTFS`
 
-#### What I'm Building:
+#### What I've Built:
 - Built and configured virtual infrastructure using Hyper-V, including virtual machines, virtual switches and isolated networking.
-- Designed a multi-VM environment with dedicated domain, networking, file-service and client roles.
-- Configured a dedicated Windows Server RRAS VM to route traffic between networks and provide NAT between the isolated lab and external networks.
+- Designed a multi-VM environment with dedicated domain, networking, file-services and client roles.
+- Configured a dedicated RRAS VM to route traffic between networks and provide NAT between the isolated lab and external networks.
 - Deployed Active Directory Domain Services and designed the domain, OU and security group structure.
 - Configured AD-integrated DNS and DHCP to provide centralised name resolution and IP address management.
 - Configured SMB file shares and implemented group-based NTFS permissions using least-privilege principles.
 - Implemented Group Policy to centrally manage user, workstation and security configuration.
-- Validated DNS, DHCP, authentication, routing, Group Policy and permissions from domain-joined clients.
+- Validated DNS, DHCP, authentication, routing, Group Policy and resource permissions from domain-joined clients.
 #### What's Next:
 - Automate infrastructure administration with PowerShell.
 - Deploy a second Domain Controller and configure AD/DNS replication.
