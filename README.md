@@ -12,7 +12,7 @@ This GitHub documents that journey and provides practical examples of the infras
 > A virtualised Windows Server environment designed to simulate the infrastructure of a small organisation.
 
 #### Technologies:
-`Hyper-V` `Windows Server 2025` `RRAS` `NAT` `Active Directory` `DNS` `DHCP` `Group Policy` `NTFS`
+`Hyper-V` `RRAS` `NAT` `Windows Server 2025` `Active Directory` `DNS` `DHCP` `Group Policy` `NTFS`
 
 #### What I've Built:
     - Deployed Windows Server virtual machines using Microsoft Hyper-V.
