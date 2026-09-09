@@ -14,21 +14,21 @@ This GitHub documents my progression into infrastructure and cloud engineering t
 #### Technologies:
 `Windows Server 2025` `Hyper-V` `RRAS` `Active Directory` `DNS` `DHCP` `Group Policy` `Windows LAPS` `PowerShell` `SMB` `NTFS`
 
-### What I've Built:
+#### What I've Built:
 - Built a segmented multi-server Hyper-V environment with dedicated routing, domain controller, file server and client roles.
 - Configured RRAS routing, NAT and DHCP relay across isolated server and client networks.
 - Deployed Active Directory with structured OUs, security groups and AGDLP-based access control.
 - Configured AD-integrated DNS, DHCP and Group Policy, including workstation security and Windows LAPS.
 - Implemented SMB file services with group-based NTFS permissions and least-privilege access.
 - Validated infrastructure services using Windows administration tools and PowerShell.
-### What's Next:
-#### Phase 2 — Resilience & Operations
+#### What's Next:
+##### Phase 2 — Resilience & Operations
 - PowerShell automation.
 - Additional Domain Controller and AD/DNS replication.
 - Backup and recovery testing.
 - Centralised monitoring and logging.
 
-#### Phase 3 — Hybrid Azure
+##### Phase 3 — Hybrid Azure
 - Extend the environment into Azure.
 - Implement hybrid identity and networking.
 - Introduce Infrastructure as Code.
@@ -36,13 +36,13 @@ This GitHub documents my progression into infrastructure and cloud engineering t
 <b>[> View Project](https://github.com/Simonbaron-it/HomeLab-EnterpriseEnvironment)</b>
 
 ## Upcoming Projects:
-#### Azure Cloud Resume Challenge
+### Azure Cloud Resume Challenge
 > Build and deploy a cloud-hosted portfolio using Azure services, automation and CI/CD.
 
-#### Azure Infrastructure Lab
+### Azure Infrastructure Lab
 > Design and deploy a secure Azure infrastructure environment covering compute, networking, identity, monitoring and Infrastructure as Code.
 
-### Thanks for visiting! 
+## Thanks for visiting! 
 Explore my repositories to see the projects and technical documentation I'm currently building.
 
 
