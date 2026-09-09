@@ -12,24 +12,26 @@ This GitHub documents my progression into infrastructure and cloud engineering t
 > A multi-server Windows infrastructure environment built with Hyper-V, designed to simulate the core networking, identity, security and file services of a small organisation.
 
 #### Technologies:
-`Windows Server 2025` `Hyper-V` `RRAS` `Active Directory` `DNS` `DHCP` `Group Policy` `SMB` `NTFS`
+`Windows Server 2025` `Hyper-V` `RRAS` `Active Directory` `DNS` `DHCP` `Group Policy` `Windows LAPS` `PowerShell` `SMB` `NTFS`
 
-#### What I've Built:
-- Built and configured virtual infrastructure using Hyper-V, including virtual machines, virtual switches and isolated networking.
-- Designed a multi-VM environment with dedicated domain, networking, file-services and client roles.
-- Configured a dedicated RRAS VM to route traffic between networks and provide NAT between the isolated lab and external networks.
-- Deployed Active Directory Domain Services and designed the domain, OU and security group structure.
-- Configured AD-integrated DNS and DHCP to provide centralised name resolution and IP address management.
-- Configured SMB file shares and implemented group-based NTFS permissions using least-privilege principles.
-- Implemented Group Policy to centrally manage user, workstation and security configuration.
-- Validated DNS, DHCP, authentication, routing, Group Policy and resource permissions from domain-joined clients.
-#### What's Next:
-- Automate infrastructure administration with PowerShell.
-- Deploy a second Domain Controller and configure AD/DNS replication.
-- Implement backup, recovery and disaster-recovery testing.
-- Introduce centralised monitoring and logging.
-- Add Linux Server administration to the environment.
-- Extend the lab into Azure to explore hybrid infrastructure.
+### What I've Built:
+- Built a segmented multi-server Hyper-V environment with dedicated routing, domain controller, file server and client roles.
+- Configured RRAS routing, NAT and DHCP relay across isolated server and client networks.
+- Deployed Active Directory with structured OUs, security groups and AGDLP-based access control.
+- Configured AD-integrated DNS, DHCP and Group Policy, including workstation security and Windows LAPS.
+- Implemented SMB file services with group-based NTFS permissions and least-privilege access.
+- Validated infrastructure services using Windows administration tools and PowerShell.
+### What's Next:
+#### Phase 2 — Resilience & Operations
+- PowerShell automation.
+- Additional Domain Controller and AD/DNS replication.
+- Backup and recovery testing.
+- Centralised monitoring and logging.
+
+#### Phase 3 — Hybrid Azure
+- Extend the environment into Azure.
+- Implement hybrid identity and networking.
+- Introduce Infrastructure as Code.
     
 <b>[> View Project](https://github.com/Simonbaron-it/HomeLab-EnterpriseEnvironment)</b>
 
