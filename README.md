@@ -15,6 +15,7 @@ This GitHub documents my progression into infrastructure and cloud engineering t
 `Windows Server 2025` `Hyper-V` `RRAS` `Active Directory` `DNS` `DHCP` `Group Policy` `Windows LAPS` `PowerShell` `SMB` `NTFS`
 
 #### What I've Built:
+##### Phase 1 — Core Infrastructure
 - Built a segmented multi-server Hyper-V environment with dedicated routing, domain controller, file server and client roles.
 - Configured RRAS routing, NAT and DHCP relay across isolated server and client networks.
 - Deployed Active Directory with structured OUs, security groups and AGDLP-based access control.
