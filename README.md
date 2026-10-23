@@ -9,30 +9,19 @@ This GitHub documents my progression into infrastructure and cloud engineering t
 ## 👨‍💻 Projects I'm working on:
 
 ### [Windows Server 2025 Enterprise-Style Infrastructure Lab](https://github.com/Simonbaron-it/HomeLab-EnterpriseEnvironment) 
-> A multi-server Windows infrastructure environment built with Hyper-V, designed to simulate the core networking, identity, security and file services of a small organisation.
+> A multi-server Windows infrastructure lab built on Hyper-V, simulating resilient networking, identity, file services, automation, backup and monitoring for a small organisation.
 
 #### Technologies:
-`Windows Server 2025` `Hyper-V` `RRAS` `Active Directory` `DNS` `DHCP` `Group Policy` `Windows LAPS` `PowerShell` `SMB` `NTFS`
+`Windows Server 2025` `Hyper-V` `RRAS` `Active Directory` `DNS` `DHCP` `Group Policy` `Windows LAPS` `PowerShell` `SMB/NTFS` `Windows Admin Center` `Windows Event Forwarding`
 
 #### What I've Built:
-##### Phase 1 — Core Infrastructure
-- Built a segmented multi-server Hyper-V environment with dedicated routing, domain controller, file server and client roles.
-- Configured RRAS routing, NAT and DHCP relay across isolated server and client networks.
-- Deployed Active Directory with structured OUs, security groups and AGDLP-based access control.
-- Configured AD-integrated DNS, DHCP and Group Policy, including workstation security and Windows LAPS.
-- Implemented SMB file services with group-based NTFS permissions and least-privilege access.
-- Validated infrastructure services using Windows administration tools and PowerShell.
-#### What's Next:
-##### Phase 2 — Resilience & Operations
-- PowerShell automation.
-- Additional Domain Controller and AD/DNS replication.
-- Backup and recovery testing.
-- Centralised monitoring and logging.
-
-##### Phase 3 — Hybrid Azure
-- Extend the environment into Azure.
-- Implement hybrid identity and networking.
-- Introduce Infrastructure as Code.
+##### Phase 1 & 2 — Core Infrastructure, Resilience & Operations
+- Built a segmented multi-server Hyper-V environment with RRAS routing, NAT and DHCP relay.
+- Deployed Active Directory, DNS and DHCP with a second Domain Controller, replication and DHCP failover.
+- Implemented Group Policy, Windows LAPS, SMB file services and AGDLP-based least-privilege access control.
+- Implemented and tested infrastructure backup and recovery for Active Directory, file services, Group Policy and DHCP.
+- Deployed `MGMT01` for centralised administration, monitoring, security auditing and Windows Event Forwarding.
+- Automated infrastructure health checks, user lifecycle administration, configuration backup and operational reporting with PowerShell.
     
 <b>[> View Project](https://github.com/Simonbaron-it/HomeLab-EnterpriseEnvironment)</b>
 
