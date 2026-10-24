@@ -18,7 +18,7 @@ This GitHub documents my progression into infrastructure and cloud engineering t
 - Built a segmented multi-server Hyper-V environment with RRAS routing, NAT and DHCP relay.
 - Deployed Active Directory, DNS and DHCP with a second Domain Controller, replication and DHCP failover.
 - Implemented Group Policy, Windows LAPS, SMB file services and AGDLP-based least-privilege access control.
-- Implemented and tested infrastructure backup and recovery for Active Directory, file services, Group Policy and DHCP.
+- Implemented Windows Server backup procedures, tested file, Group Policy and Active Directory object recovery, and automated infrastructure configuration backups.
 - Deployed `MGMT01` for centralised administration, monitoring, security auditing and Windows Event Forwarding.
 - Automated infrastructure health checks, user lifecycle administration, configuration backup and operational reporting with PowerShell.
     
@@ -29,7 +29,7 @@ This GitHub documents my progression into infrastructure and cloud engineering t
 > Build and deploy a cloud-hosted portfolio using Azure services, automation and CI/CD.
 
 ### Azure Infrastructure Lab
-> Design and deploy a secure Azure infrastructure environment covering compute, networking, identity, monitoring and Infrastructure as Code.
+> Extend my completed Windows Server enterprise lab into Microsoft Azure, exploring hybrid networking, identity integration, cloud security, governance, monitoring and Infrastructure as Code.
 
 ## Thanks for visiting! 
 Explore my repositories to see the projects and technical documentation I'm currently building.
