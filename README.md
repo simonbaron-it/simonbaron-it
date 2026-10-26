@@ -8,21 +8,21 @@ This GitHub documents my progression into infrastructure and cloud engineering t
 
 ## 👨‍💻 Projects I'm working on:
 
-### [Hybrid Azure Infrastructure Lab](https://github.com/simonbaron-it/HomeLab-AzureHybrid/blob/main/README.md)
-> Extending my completed Windows Server enterprise lab into Microsoft Azure - exploring hybrid networking, identity integration, cloud security, governance, monitoring and Infrastructure as Code.
+### [Hybrid Azure Infrastructure Lab](https://github.com/simonbaron-it/HomeLab-AzureHybrid)
+> Extending my completed Windows Server enterprise lab into Microsoft Azure - exploring hybrid networking, identity integration, Azure administration, centralised monitoring, cloud storage, security and infrastructure automation.
 
 #### Technologies: 
 `Microsoft Azure` `Microsoft Entra ID` `Entra Cloud Sync` `Azure Arc` `Azure Monitor` `Azure Files` `PowerShell` `Bicep`
 
 #### Project Objectives:
-- Deploy and manage Azure Windows Server infrastructure and networking.
-- Synchronise existing Active Directory identities with Microsoft Entra ID.
-- Manage on-premises Windows servers through Azure Arc.
-- Implement centralised infrastructure monitoring and alerting.
-- Configure Azure storage, patching, backup and recovery.
-- Automate deployments and administration using PowerShell and Bicep.
+- Deploy, configure and administer Azure Windows Server infrastructure and networking.
+- Integrate on-premises Active Directory with Microsoft Entra ID using Cloud Sync.
+- Manage and monitor hybrid Windows Server infrastructure using Azure Arc and Azure Monitor.
+- Implement Azure storage, patch management, backup and recovery.
+- Automate infrastructure deployment and administration using PowerShell and Bicep.
+- Validate infrastructure functionality through troubleshooting and recovery scenarios.
 
-<b>[> View Project](https://github.com/simonbaron-it/HomeLab-AzureHybrid/blob/main/README.md)</b>
+<b>[> View Project](https://github.com/simonbaron-it/HomeLab-AzureHybrid)</b>
 
 ## ✅ Completed Projects:
 
@@ -34,7 +34,7 @@ This GitHub documents my progression into infrastructure and cloud engineering t
 
 #### What I've Built:
 - Built a segmented multi-server Hyper-V environment with RRAS routing, NAT and DHCP relay.
-- Deployed Active Directory, DNS and DHCP with a second Domain Controller, replication and DHCP failover.
+- Deployed redundant Active Directory, DNS and DHCP services, including AD replication and DHCP failover.
 - Implemented Group Policy, Windows LAPS, SMB file services and AGDLP-based least-privilege access control.
 - Implemented Windows Server backup procedures, tested file, Group Policy and Active Directory object recovery, and automated infrastructure configuration backups.
 - Deployed a management server for centralised administration, monitoring, security auditing and Windows Event Forwarding.
