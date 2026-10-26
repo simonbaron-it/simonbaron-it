@@ -8,6 +8,24 @@ This GitHub documents my progression into infrastructure and cloud engineering t
 
 ## 👨‍💻 Projects I'm working on:
 
+### [Hybrid Azure Infrastructure Lab](https://github.com/simonbaron-it/HomeLab-AzureHybrid/blob/main/README.md)
+> Extending my completed Windows Server enterprise lab into Microsoft Azure - exploring hybrid networking, identity integration, cloud security, governance, monitoring and Infrastructure as Code.
+
+#### Technologies: 
+`Microsoft Azure` `Microsoft Entra ID` `Entra Cloud Sync` `Azure Arc` `Azure Monitor` `Azure Files` `PowerShell` `Bicep`
+
+#### Project Objectives:
+- Deploy and manage Azure Windows Server infrastructure and networking.
+- Synchronise existing Active Directory identities with Microsoft Entra ID.
+- Manage on-premises Windows servers through Azure Arc.
+- Implement centralised infrastructure monitoring and alerting.
+- Configure Azure storage, patching, backup and recovery.
+- Automate deployments and administration using PowerShell and Bicep.
+
+<b>[> View Project](https://github.com/simonbaron-it/HomeLab-AzureHybrid/blob/main/README.md)</b>
+
+## ✅ Completed Projects:
+
 ### [Windows Server 2025 Enterprise-Style Infrastructure Lab](https://github.com/Simonbaron-it/HomeLab-EnterpriseEnvironment) 
 > A multi-server Windows infrastructure lab built on Hyper-V, simulating resilient networking, identity, file services, automation, backup and monitoring for a small organisation.
 
@@ -27,9 +45,6 @@ This GitHub documents my progression into infrastructure and cloud engineering t
 ## Upcoming Projects:
 ### Azure Cloud Resume Challenge
 > Build and deploy a cloud-hosted portfolio using Azure services, automation and CI/CD.
-
-### Azure Infrastructure Lab
-> Extend my completed Windows Server enterprise lab into Microsoft Azure, exploring hybrid networking, identity integration, cloud security, governance, monitoring and Infrastructure as Code.
 
 ## Thanks for visiting! 
 Explore my repositories to see the projects and technical documentation I'm currently building.
