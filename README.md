@@ -19,7 +19,7 @@ This GitHub documents my progression into infrastructure and cloud engineering t
 - Deployed Active Directory, DNS and DHCP with a second Domain Controller, replication and DHCP failover.
 - Implemented Group Policy, Windows LAPS, SMB file services and AGDLP-based least-privilege access control.
 - Implemented Windows Server backup procedures, tested file, Group Policy and Active Directory object recovery, and automated infrastructure configuration backups.
-- Deployed `MGMT01` for centralised administration, monitoring, security auditing and Windows Event Forwarding.
+- Deployed a management server for centralised administration, monitoring, security auditing and Windows Event Forwarding.
 - Automated infrastructure health checks, user lifecycle administration, configuration backup and operational reporting with PowerShell.
     
 <b>[> View Project](https://github.com/Simonbaron-it/HomeLab-EnterpriseEnvironment)</b>
